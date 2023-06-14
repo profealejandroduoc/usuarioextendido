@@ -1,2 +1,4 @@
 # usuarioextendido
-prueba git
+
+##### Ejemplo formulario extendido de usuario 
+
